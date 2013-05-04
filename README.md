@@ -1,0 +1,1 @@
+HTC Explorer Device Configuration for Evervolv 3.1.0
